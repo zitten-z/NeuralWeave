@@ -28,3 +28,5 @@
 
 ## 贡献与交流
 欢迎提交 Issue 或 Pull Request，分享你构建的图谱！
+## 🗺️ 联想图谱库
+- [天气图谱](graphs/weather.md)
